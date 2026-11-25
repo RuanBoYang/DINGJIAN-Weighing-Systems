@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api/
-Sitemap: https://dingjian-weighing-systems.charminghost4.chatgpt.site/sitemap.xml
