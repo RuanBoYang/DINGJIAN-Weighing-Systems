@@ -2,3 +2,4 @@
 .searchbtn{display:none}@media(max-width:1000px){.searchbtn{display:block;background:none;border:0;color:white;font-size:30px;margin-left:auto}.searching .middle form{display:flex;position:absolute;top:100%;left:4%;width:92%;z-index:10;height:44px;box-shadow:0 3px 12px #0003}}
 
 .plate{width:min(100%,250px);aspect-ratio:5/4;margin:auto;background:white url(assets/product-plates.webp) no-repeat;background-size:400% 500%}
+.brochure ol{columns:2;line-height:1.9;padding-inline-start:2rem}.brochure li{break-inside:avoid}.brochure section{padding:1.5rem 0;border-top:1px solid #ccd5dd;scroll-margin-top:7rem}.brochure section img{display:block;width:100%;height:auto}.brochure section span{display:inline-block;margin:.6rem 0}.grid article a+a{margin-inline-start:.5rem}@media(max-width:650px){.brochure ol{columns:1}}
